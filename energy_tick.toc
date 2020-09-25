@@ -1,0 +1,5 @@
+## Interface: 20400
+## Title: energy_tick
+## Notes: Energy tick from SoHigh UI
+
+energy_tick.lua
